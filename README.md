@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeppe</h1>
-<h3 align="center">A fullstack developer and passionate believe of minimum cooking.</h3>
+<h3 align="center">A fullstack developer and passionate believer of minimum cooking.</h3>
+
+
 
 - 🔭 I’m currently working on **Planner**
 
