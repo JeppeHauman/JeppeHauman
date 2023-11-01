@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Planner**
+- 🔭 I’m currently working on **Topnades**
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Svelte** using Sveltekit
 
 - 📫 How to reach me **hauman.jeppe@gmail.com**
 
